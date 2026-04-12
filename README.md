@@ -23,4 +23,4 @@
 To become a skilled Data Engineer and work on large-scale data systems
 
 ## 📫 Connect With Me
-- LinkedIn: (add your link here)
+- LinkedIn: www.linkedin.com/in/zaid-mushtaq-data-engineer
