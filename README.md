@@ -37,9 +37,9 @@
 ---
 
 ## 📈 GitHub Stats
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaid-mushtaq-data-engineer&show_icons=true)
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add your link here)
+- LinkedIn: www.linkedin.com/in/zaid-mushtaq-data-engineer
