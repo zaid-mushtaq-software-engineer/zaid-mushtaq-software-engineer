@@ -5,6 +5,7 @@ set -euo pipefail
 # Requires: gh auth refresh -h github.com -s user
 
 LINKEDIN_URL="${LINKEDIN_URL:-https://www.linkedin.com/in/zaid-mushtaq-software-engineer/}"
+PORTFOLIO_URL="${PORTFOLIO_URL:-https://zaid-mushtaq-software-engineer.github.io/My_Portfolio/}"
 
 gh auth refresh -h github.com -s user
 
@@ -13,6 +14,6 @@ gh api -X PATCH user \
   -f bio='Software Developer | Backend Engineering | AI Enthusiast' \
   -f location='Bengaluru, India' \
   -f company='OneBill Software Private Limited' \
-  -f blog="$LINKEDIN_URL"
+  -f blog="$PORTFOLIO_URL"
 
 gh api user --jq '{login,name,bio,company,location,blog}'

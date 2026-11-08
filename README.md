@@ -147,5 +147,6 @@ A **hands-on Redis laboratory** on a Product & Inventory domain—MySQL as sourc
 ## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-zaid--mushtaq--software--engineer-181717?style=flat-square&logo=github)](https://github.com/zaid-mushtaq-software-engineer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-live-0A0A0A?style=flat-square&logo=githubpages&logoColor=white)](https://zaid-mushtaq-software-engineer.github.io/My_Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaid_Mushtaq-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zaid-mushtaq-software-engineer/)
 [![Email](https://img.shields.io/badge/Email-mushtaqzaid589@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mushtaqzaid589@gmail.com)
