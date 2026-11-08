@@ -1,6 +1,6 @@
 # Hi, I'm Zaid Mushtaq
 
-**Software Developer** · Bengaluru, India · [OneBill Software Private Limited](https://github.com/zaid-mushtaq-data-engineer)
+**Software Developer** · Bengaluru, India · [OneBill Software Private Limited](https://github.com/zaid-mushtaq-software-engineer)
 
 Software Developer | Backend Engineering | AI Enthusiast
 
@@ -68,7 +68,7 @@ Large Language Models (LLMs) · Model Context Protocol (MCP) · AI Agents · Age
 
 ## Featured Projects
 
-### [KINNOTE](https://github.com/zaid-mushtaq-data-engineer/KINNOTE)
+### [KINNOTE](https://github.com/zaid-mushtaq-software-engineer/KINNOTE)
 
 **Family Story Archive** — a private platform to preserve family memories through photos, stories, and personal connections.
 
@@ -88,7 +88,7 @@ Large Language Models (LLMs) · Model Context Protocol (MCP) · AI Agents · Age
 
 ---
 
-### [Redis Engineering Lab](https://github.com/zaid-mushtaq-data-engineer/redis-engineering-lab)
+### [Redis Engineering Lab](https://github.com/zaid-mushtaq-software-engineer/redis-engineering-lab)
 
 A **hands-on Redis laboratory** on a Product & Inventory domain—MySQL as source of truth, Redis as an optional performance layer.
 
@@ -119,15 +119,15 @@ A **hands-on Redis laboratory** on a Product & Inventory domain—MySQL as sourc
 
 ### Contribution Activity
 
-![GitHub contribution activity](https://github.com/users/zaid-mushtaq-data-engineer/contributions)
+![GitHub contribution activity](https://github.com/users/zaid-mushtaq-software-engineer/contributions)
 
 ### GitHub Statistics
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaid-mushtaq-data-engineer&theme=github_dark)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaid-mushtaq-software-engineer&theme=github_dark)
 
 ### Contribution Streak
 
-![GitHub streak](https://streak-stats.demolab.com/?user=zaid-mushtaq-data-engineer&theme=github-dark&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=zaid-mushtaq-software-engineer&theme=github-dark&hide_border=true)
 
 ---
 
@@ -146,6 +146,6 @@ A **hands-on Redis laboratory** on a Product & Inventory domain—MySQL as sourc
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-zaid--mushtaq--software--engineer-181717?style=flat-square&logo=github)](https://github.com/zaid-mushtaq-data-engineer)
+[![GitHub](https://img.shields.io/badge/GitHub-zaid--mushtaq--software--engineer-181717?style=flat-square&logo=github)](https://github.com/zaid-mushtaq-software-engineer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaid_Mushtaq-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zaid-mushtaq-software-engineer/)
 [![Email](https://img.shields.io/badge/Email-mushtaqzaid589@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mushtaqzaid589@gmail.com)
