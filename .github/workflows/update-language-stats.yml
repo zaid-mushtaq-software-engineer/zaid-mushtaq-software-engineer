@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate aggregate language chart
         env:
-          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN || github.token }}
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: python scripts/generate_language_chart.py
 
       - name: Commit chart if changed

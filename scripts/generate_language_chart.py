@@ -31,7 +31,16 @@ BAR_COLORS = {
 
 
 def token() -> str:
-    for key in ("GH_STATS_TOKEN", "GITHUB_TOKEN"):
+    stats = os.environ.get("GH_STATS_TOKEN", "").strip()
+    if stats:
+        return stats
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        print(
+            "GH_STATS_TOKEN is not set; keeping existing language-distribution.svg.",
+            file=sys.stderr,
+        )
+        sys.exit(0)
+    for key in ("GITHUB_TOKEN",):
         value = os.environ.get(key, "").strip()
         if value:
             return value
