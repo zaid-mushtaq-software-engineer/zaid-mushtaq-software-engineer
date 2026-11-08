@@ -1,6 +1,6 @@
 # Hi, I'm Zaid Mushtaq
 
-**Software Developer** · Bengaluru, India · [OneBill Software Private Limited](https://github.com/zaid-mushtaq-software-engineer)
+**Software Developer** · Bengaluru, India · [OneBill Software Private Limited](https://www.onebillsoftware.com)
 
 Software Developer | Backend Engineering | AI Enthusiast
 
