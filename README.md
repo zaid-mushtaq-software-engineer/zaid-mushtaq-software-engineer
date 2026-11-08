@@ -119,15 +119,15 @@ A **hands-on Redis laboratory** on a Product & Inventory domain—MySQL as sourc
 
 ### Contribution Activity
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zaid-mushtaq-data-engineer&theme=github-compact&hide_border=true&area=true)
+![GitHub contribution activity](https://github.com/users/zaid-mushtaq-data-engineer/contributions)
 
 ### GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaid-mushtaq-data-engineer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaid-mushtaq-data-engineer&theme=github_dark)
 
 ### Contribution Streak
 
-![GitHub streak](https://github-readme-streak-stats.demolab.com?user=zaid-mushtaq-data-engineer&theme=github-dark&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=zaid-mushtaq-data-engineer&theme=github-dark&hide_border=true)
 
 ---
 
@@ -146,6 +146,6 @@ A **hands-on Redis laboratory** on a Product & Inventory domain—MySQL as sourc
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-zaid--mushtaq--data--engineer-181717?style=flat-square&logo=github)](https://github.com/zaid-mushtaq-data-engineer)
+[![GitHub](https://img.shields.io/badge/GitHub-zaid--mushtaq--software--engineer-181717?style=flat-square&logo=github)](https://github.com/zaid-mushtaq-data-engineer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zaid_Mushtaq-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zaid-mushtaq-software-engineer/)
 [![Email](https://img.shields.io/badge/Email-mushtaqzaid589@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mushtaqzaid589@gmail.com)
